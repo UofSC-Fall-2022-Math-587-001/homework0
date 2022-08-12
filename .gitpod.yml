@@ -13,5 +13,5 @@ vscode:
   extensions:
     # - efoerster.texlab
     - golang.Go
-    - James-Yu.latex-workshop
+    - James-Yu.latex-workshop@8.28.0
     # - tomoki1207.pdf
