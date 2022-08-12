@@ -6,8 +6,6 @@ Welcome to the Fall 2022 instance of CSCE 557/Math 587. This assignment is inten
 familiarize you with tools used in this course.
 
 - If you don't have an account at GitHub, sign up at [https://github.com/join](https://github.com/join).
-If you sign up for a [student developer pack](https://education.github.com/benefits?type=student)
-you get additional benefits.
 - Send me your GitHub username. 
 - Open https://gitpod.io/#https://github.com/UofSC-Fall-2022-Math-587-001/homework0
 or click on the GitPod icon above. 
