@@ -8,3 +8,8 @@ tasks:
         latexmk -pdf ; \
       done
   - name: Terminal
+
+vscode:
+  extensions:
+    - efoerster.texlab
+    - tomoki1207.vscode-pdf
