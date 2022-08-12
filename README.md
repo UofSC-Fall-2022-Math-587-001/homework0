@@ -15,6 +15,10 @@ Note you can use your GitHub account for authentication.
 or click on the GitPod icon above. 
 - Open `main.tex` in the side bar. 
 
+<p align="center">
+  <img width="460" height="300" src="images/side_bar.png">
+</p>
+
 <center>
 ![Side bar](images/side_bar.png)
 </center>
