@@ -16,14 +16,14 @@ or click on the GitPod icon above.
 - Open `main.tex` in the side bar. 
 
 <center>
-![Side bar](images/side_bar.png "Explorer side bar")
+![Side bar](images/side_bar.png)
 </center>
 
 - Click on the TeX icon > View Latex PDF > View in web browser and then click through the popup. This 
 will open up the pdf in a separate tab/window. 
 
 <center>
-![Pdf_preview](images/pdf_viewer.png "Latex side bar")
+![Pdf_preview](images/pdf_viewer.png)
 </center>
 
 - Try to edit `main.tex`, save your edits, and refresh the tab with the viewer to see the changes.
@@ -31,7 +31,7 @@ will open up the pdf in a separate tab/window.
 - Run the program in the terminal pane (see the comments on how to do this). 
 
 <center>
-![Terminal](images/terminal.png "Terminal")
+![Terminal](images/terminal.png)
 </center>
 
 - When you are satisfied, stop your workspace. Hit `F1` and select `Gitpod: Stop Workspace`. If 
