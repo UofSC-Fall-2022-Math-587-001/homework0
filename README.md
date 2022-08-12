@@ -1,14 +1,14 @@
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/UofSC-Fall-2022-Math-587-001/homework0)
 
-## Introduction to Cryptography 
+## Homework 0: Due 2022.08.26 
 
 Welcome to the Fall 2022 instance of CSCE 557/Math 587. This assignment is intended to 
 familiarize you with tools used in this course.
 
-- If you don't have an account at GitHub, sign up at https://github.com/join
+- If you don't have an account at GitHub, sign up at [https://github.com/join](https://github.com/join).
 If you sign up for a [student developer pack](https://education.github.com/benefits?type=student)
 you get additional benefits.
-- If you don't have an account at GitPod, sign up at [https://gitpod.io/login/](https://gitpod.io/login/)
+- If you don't have an account at GitPod, sign up at [https://gitpod.io/login/](https://gitpod.io/login/).
 Note you can use your GitHub account for authentication. 
 - Send me your GitHub username. 
 - Open https://gitpod.io/#https://github.com/UofSC-Fall-2022-Math-587-001/homework0
@@ -36,3 +36,5 @@ will open up the pdf in a separate tab/window.
 
 - When you are satisfied, stop your workspace. Hit `F1` and select `Gitpod: Stop Workspace`. If 
 you don't see it in the search bar that pops up, start typing it and it show up. 
+
+Note that only thing I expect to receive from you in your GitHub username :)
