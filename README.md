@@ -37,4 +37,4 @@ will open up the pdf in a separate tab/window.
 - When you are satisfied, stop your workspace. Hit `F1` and select `Gitpod: Stop Workspace`. If 
 you don't see it in the search bar that pops up, start typing it and it show up. 
 
-Note that only thing I expect to receive from you in your GitHub username :)
+Note that only thing I expect to receive from you is your GitHub username :)
