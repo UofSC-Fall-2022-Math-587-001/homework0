@@ -1,5 +1,4 @@
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)]
-(https://gitpod.io/#https://github.com/UofSC-Fall-2022-Math-587-001/homework0)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/UofSC-Fall-2022-Math-587-001/homework0)
 
 ## Introduction to Cryptography 
 
