@@ -12,4 +12,5 @@ tasks:
 vscode:
   extensions:
     - efoerster.texlab
-    - tomoki1207.vscode-pdf
+    - golang.Go
+    - tomoki1207.pdf
