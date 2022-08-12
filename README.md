@@ -13,4 +13,11 @@ Note you can use your GitHub account for authentication.
 - Send me your GitHub username. 
 - Open https://gitpod.io/#https://github.com/UofSC-Fall-2022-Math-587-001/homework0
 or click on the GitPod icon above. 
-- Open `main.tex` in the side bar. ![Side bar](side_bar.png "Explorer side bar")
+- Open `main.tex` in the side bar. 
+
+![Side bar](side_bar.png "Explorer side bar")
+
+- Click on the TeX icon > View Latex PDF > View in web browser and then click through the popup. This 
+will open up the pdf in a separate tab/window. 
+
+![Pdf_preview](pdf_viewer.png "Latex side bar")
